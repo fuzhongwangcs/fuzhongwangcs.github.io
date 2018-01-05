@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            兮兮
-tagline:          'Fuzhongwangcs'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Fuzhongwangcs Blog</a>, refreshed.'
+tagline:          '兮兮'
+description:      'The <a href="https://github.com/fuzhongwangcs/fuzhongwangcs.github.io" target="_blank">Fuzhongwangcs Blog</a>, refreshed.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
