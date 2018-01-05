@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Fuzhongwangcs
 tagline:          'Fuzhongwang's Blog'
 description:      'The <a href="http://fuzhongwangcs.top" target="_blank">Fuzhongwangcs's Blog</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+url:              https://github.com/fuzhongwangcs/fuzhongwangcs.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
