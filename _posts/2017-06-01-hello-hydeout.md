@@ -60,7 +60,7 @@ of the body (e.g. for custom JS) by defining your own
   must have `sidebar_link: true` in their front matter to show up in
   the sidebar.
 
-* A simple redirect-to-Baidu search is available. If you want to use
+* A simple redirect-to-Google is available. If you want to use
   Google Custom Search or Algolia or something with more involved,
   override the `search.html`.
 

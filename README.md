@@ -116,13 +116,13 @@ You can see the full set of partials you can replace in the
   Description of "My Category"
   ```
 
-* A simple redirect-to-Baidu search is available. Just create a page with
+* A simple redirect-to-Google search is available. Just create a page with
   the `search` layout.
 
   ```
   ---
   layout: search
-  title: Baidu Search
+  title: Google Search
   ---
   ```
 
