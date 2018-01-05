@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Fuzhongwangcs
-tagline:          'Fuzhongwang's blog'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'Fuzhongwang's Blog'
+description:      'The <a href="http://fuzhongwangcs.top" target="_blank">Fuzhongwangcs's Blog</a>, refreshed.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Zhongwang Fu'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
