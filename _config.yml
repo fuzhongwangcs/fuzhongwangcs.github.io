@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Fuzhongwangcs
-tagline:          'Fzwcs Blog'
+tagline:          '兮兮'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Fuzhongwangcs Blog</a>, refreshed.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
