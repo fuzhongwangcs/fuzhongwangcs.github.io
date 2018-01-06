@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Java Web
 ---
 
 Another sample category page.
