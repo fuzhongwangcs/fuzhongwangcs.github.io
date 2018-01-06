@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - Edge Case
+  - Java Web
 tags:
   - edge case
   - layout
