@@ -3,7 +3,7 @@ layout: post
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Image Process
 tags:
   - Post Formats
   - readability

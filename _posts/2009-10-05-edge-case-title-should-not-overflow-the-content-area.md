@@ -2,7 +2,7 @@
 layout: post
 title: "Antidisestablishmentarianism"
 categories:
-  - Edge Case
+  - Android
 tags:
   - content
   - css
