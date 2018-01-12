@@ -15,7 +15,7 @@ tags:
 ------
 
 ### **1、首先访问[http://www.python.org/download/][1]去下载最新的python版本。**
-　　到这里大家会遇到一个问题，该学习Python2还是Python3版本呢？
+　　到这里大家会遇到一个问题，该学习Python2还是Python3版本呢？</br>
 　　Python3一定是未来的趋势，可是它不支持向下兼容，也就是用python2.7版本编写的代码，没法在python3中直接运行，而在python2.7中却可以应用一些python3的语法。当然，Python3有它的好处，它的源码默认就是UTF-8编码，这样就不需要现将中文转换编码了，可以直接使用和输出中文。在Python2中使用的print输出语句，在3版本中变成了一个叫做print()的函数，例如输出print“helloiplaypython”，现在变成了print(“iplaypython”)。现在很多Python书籍中都在使用Python2版本做为教程示例，尤其是现在大多数第三方库都没有完全移植到python3版本，如果直接选择学习Python3版本，将面临非常大的难题，很多python模块没办法正常使用，一些WEB框架，如果Web.py、Django等，对python3支持的都不算好，或者根本没有正式的支持。建议初学者先学习Python2版本，之后依照个人情况，再选择是否学习3版本的Python语法。
 　　
 　　　　　![][2]
@@ -25,18 +25,18 @@ tags:
 ### **4、Hello World！ 按照很多资料上写的，输入 print 'Hello World!'**
   　　　　　　![][4]
 ### **5、经过以上测试，python环境算是装好了，但是怎么开发呢，难道用这种命令行？**
-　　有很多IDE可以应用，对于个人而言，IDE的话推荐PyCharm，编辑器的话推荐VS Code。
-　　PyCharm安装教程：
-　　①、到[PyCharm官网][5]下载PyCharm安装包。
+　　有很多IDE可以应用，对于个人而言，IDE的话推荐PyCharm，编辑器的话推荐VS Code。</br>
+　　PyCharm安装教程：</br>
+　　①、到[PyCharm官网][5]下载PyCharm安装包。</br>
 　　　　　　　　![][6]
-　　②、选择Windows系统的专业版下载。
+　　②、选择Windows系统的专业版下载。</br>
 　　　　　　　　![][7]
-　　③、双击安装包进行安装。
-　　④、安装完成，勾选立即运行PyCharm。
+　　③、双击安装包进行安装。</br>
+　　④、安装完成，勾选立即运行PyCharm。</br>
 　　　　　　　　![][8]
-　　⑤、选择是否导入开发环境配置文件，我们选择不导入。
+　　⑤、选择是否导入开发环境配置文件，我们选择不导入。</br>
 　　　　　　　　![][9]
-　　⑥、选择输激活服务器激活软件。激活服务器地址:http://idea.imsxm.com/
+　　⑥、选择输激活服务器激活软件。激活服务器地址:http://idea.imsxm.com/</br>
 　　初期工作就是这样了。
 
   [1]: http://www.python.org/download/
