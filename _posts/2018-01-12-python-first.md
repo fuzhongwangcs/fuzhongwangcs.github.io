@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Hydeout
+title: Python环境的搭建（windows环境）
 excerpt_separator:  <!--more-->
 
 categories:
