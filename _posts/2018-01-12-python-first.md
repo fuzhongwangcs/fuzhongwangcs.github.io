@@ -11,9 +11,6 @@ tags:
   - standard
 ---
 
-# Python环境的搭建（windows环境）
-
-标签：Python
 
 ------
 
