@@ -3,8 +3,11 @@ layout: category
 title: Python
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+<p class="message">
+本章节主要记录Python从入门的学习历程，尽量详细。
+严格意思上的说，Python是一种脚本语言，编程语言有多种多样，但是有开源和闭源之分，Python就是一个开放核心源代码的编程语言，它开发代码的效率非常高，代码编写后非常易读，非常适合多人参与的项目 。它支持面向对象的编程方式，同样也可以面对过程，非常灵活，它不但免费，而且可以任意Copy分发。 Python是由荷兰人Guido van Rossum在90年代开发出来的，当初只是为了自娱自乐尝试编写一种替代ABC这些编程语言的脚本语言，没想到受到大家的喜欢，一直发展至今，后来引入了对多平台的支持。
+Python语言源代码的底层是用C语言进行编写的，它最强大之处就于它丰富实用的第三方库，使的编写程序的速度非常快。
+Python程序的扩展名是(.py)，首先会将.py文件中的源代码编译成Python的字节码，然后再由Python虚拟机来执行这些编译好的字节码，在这一点上与JAVA等程序语言比较相似。通常我们导入或者调用另一个程序，它的.py文件会生成一个(.pyc)文件，它是编译好的的字节码文件，这样程序运行起来更快速。
+</p>
 
 Posts get listed below here.
